@@ -1,0 +1,11 @@
+/*1 this is the first one*/
+#bulb {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 10px solid black;
+}
+button {
+  padding: auto;
+  margin: 40px;
+}
